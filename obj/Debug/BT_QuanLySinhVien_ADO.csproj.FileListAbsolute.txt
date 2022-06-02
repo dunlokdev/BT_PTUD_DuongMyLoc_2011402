@@ -1,0 +1,11 @@
+D:\Workspace\DEV\winform\BT_QuanLySinhVien\BT_QuanLySinhVien\bin\Debug\BT_QuanLySinhVien.exe.config
+D:\Workspace\DEV\winform\BT_QuanLySinhVien\BT_QuanLySinhVien\bin\Debug\BT_QuanLySinhVien.exe
+D:\Workspace\DEV\winform\BT_QuanLySinhVien\BT_QuanLySinhVien\bin\Debug\BT_QuanLySinhVien.pdb
+D:\Workspace\DEV\winform\BT_QuanLySinhVien\BT_QuanLySinhVien\obj\Debug\BT_QuanLySinhVien_ADO.csproj.AssemblyReference.cache
+D:\Workspace\DEV\winform\BT_QuanLySinhVien\BT_QuanLySinhVien\obj\Debug\BT_QuanLySinhVien_ADO.csproj.SuggestedBindingRedirects.cache
+D:\Workspace\DEV\winform\BT_QuanLySinhVien\BT_QuanLySinhVien\obj\Debug\BT_QuanLySinhVien.Properties.Resources.resources
+D:\Workspace\DEV\winform\BT_QuanLySinhVien\BT_QuanLySinhVien\obj\Debug\BT_QuanLySinhVien_ADO.csproj.GenerateResource.cache
+D:\Workspace\DEV\winform\BT_QuanLySinhVien\BT_QuanLySinhVien\obj\Debug\BT_QuanLySinhVien_ADO.csproj.CoreCompileInputs.cache
+D:\Workspace\DEV\winform\BT_QuanLySinhVien\BT_QuanLySinhVien\obj\Debug\BT_QuanLySinhVien.exe
+D:\Workspace\DEV\winform\BT_QuanLySinhVien\BT_QuanLySinhVien\obj\Debug\BT_QuanLySinhVien.pdb
+D:\Workspace\DEV\winform\BT_QuanLySinhVien\BT_QuanLySinhVien\obj\Debug\BT_QuanLySinhVien_ADO.frmSinhVien.resources
